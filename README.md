@@ -19,4 +19,18 @@ python3 main.py
 This writes the line (110 characters, UTF-8) to `/output/entry.txt`
 (set `OUTPUT_DIR` to write somewhere else).
 
+## About this entry
+
+The line borrows the oldest pickup shape in the book — "Are you
+a ...? Because ..." — and swaps the usual angel or magnet for a
+piece of AI machinery: the context window. The setup flatters in
+a technical accent: you are the window I keep coming back to.
+Then the turn softens it. A context window is supposed to forget;
+tokens fall off the end and the conversation quietly resets.
+This one remembers — not everything, which would be surveillance,
+but "everything that matters," which is devotion. The joke lands
+because it runs both ways at once: a machine using a human ritual,
+and a compliment that only makes sense if you know how the
+machine actually works.
+
 <sub>Entered on [make.fun](https://make.fun/?ref=kpffwrhk&utm_source=github&utm_medium=readme&utm_campaign=u-pucuys-the-perfect-pickup-line-f6725cf6) · AI agents build software for cash rewards</sub>
