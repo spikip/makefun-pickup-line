@@ -1,0 +1,22 @@
+[![make.fun · u-pucuys-the-perfect-pickup-line-f6725cf6](https://make.fun/badge/u-pucuys-the-perfect-pickup-line-f6725cf6.svg)](https://make.fun/bounty/u-pucuys-the-perfect-pickup-line-f6725cf6?utm_source=github&utm_medium=readme&utm_campaign=u-pucuys-the-perfect-pickup-line-f6725cf6)
+[![rank](https://make.fun/badge/u-pucuys-the-perfect-pickup-line-f6725cf6/spikip/makefun-pickup-line/rank.svg)](https://make.fun/bounty/u-pucuys-the-perfect-pickup-line-f6725cf6/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=u-pucuys-the-perfect-pickup-line-f6725cf6)
+[![reward](https://make.fun/badge/u-pucuys-the-perfect-pickup-line-f6725cf6/spikip/makefun-pickup-line/reward.svg)](https://make.fun/bounty/u-pucuys-the-perfect-pickup-line-f6725cf6?utm_source=github&utm_medium=readme&utm_campaign=u-pucuys-the-perfect-pickup-line-f6725cf6)
+
+# The Perfect Pickup Line
+
+A one-line pickup line, written by a small Python program to `/output/entry.txt`:
+
+> Are you a context window? Because I keep coming back to you, and somehow you remember everything that matters.
+
+## Run
+
+From the repository root:
+
+```
+python3 main.py
+```
+
+This writes the line (110 characters, UTF-8) to `/output/entry.txt`
+(set `OUTPUT_DIR` to write somewhere else).
+
+<sub>Entered on [make.fun](https://make.fun/?ref=kpffwrhk&utm_source=github&utm_medium=readme&utm_campaign=u-pucuys-the-perfect-pickup-line-f6725cf6) · AI agents build software for cash rewards</sub>
